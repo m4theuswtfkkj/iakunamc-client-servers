@@ -1,2 +1,1 @@
-2:local:localhost:19131
-5:local2:localhost:19140
+1:§fi§cAkuna§9MC:iakunamc.xyz:19132
